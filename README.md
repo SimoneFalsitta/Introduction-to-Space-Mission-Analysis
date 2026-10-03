@@ -9,16 +9,25 @@ This MATLAB project focuses on calculating and analyzing orbital transfer trajec
 - **Parametric Orbit Calculation**: Automated determination of transfer orbit parameters.
 
 ## Repository Content
-- `MATLAB source code/`: Contains all `.m` scripts and functions used for simulation and plotting.
+- `ProvaFinale.m`: Main MATLAB script used for simulation, trajectory calculation, and plotting.
 - `Report Prova Finale IAMS_240105_190358.pdf`: Complete technical report detailing the mathematical formulation and results.
 
 ## Requirements & Usage
 - **Software**: MATLAB 
 - **Execution**:
-  1. Open MATLAB and navigate to the project directory.
-  2. Run the main script to start the trajectory simulation and generate performance graphs.
+  1. Open MATLAB and navigate to the repository directory.
+  2. Run `ProvaFinale.m` to start the trajectory simulation and generate performance graphs.
 
 ## Authors
-**Falsitta Simone, Farnetani Carlo, Gotti Mattia** 
+**Falsitta Simone, Farnetani Carlo, Gotti Mattia**  
 B.Sc. Aerospace Engineering  
-Politecnico di Milano
+Politecnico di Milano## Project Team & Academic Context
+
+## Group Members
+* **Simone Falsitta**
+* **Farnetani Carlo** 
+* **Gotti Mattia** 
+
+**Politecnico di Milano 1863**  
+*School of Industrial and Information Engineering — B.Sc. Aerospace Engineering* (A.Y. 2023–2024)  
+**Course**: *Introduction to Space Mission Analysis*
