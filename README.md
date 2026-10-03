@@ -18,11 +18,6 @@ This MATLAB project focuses on calculating and analyzing orbital transfer trajec
   1. Open MATLAB and navigate to the repository directory.
   2. Run `ProvaFinale.m` to start the trajectory simulation and generate performance graphs.
 
-## Authors
-**Falsitta Simone, Farnetani Carlo, Gotti Mattia**  
-B.Sc. Aerospace Engineering  
-Politecnico di Milano## Project Team & Academic Context
-
 ## Group Members
 * **Simone Falsitta**
 * **Farnetani Carlo** 
